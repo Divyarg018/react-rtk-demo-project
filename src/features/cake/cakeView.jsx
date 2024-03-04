@@ -2,7 +2,12 @@ import React from 'react'
 
 function cakeView() {
     return (
-        <div>cakeView</div>
+        <div>
+            <h2>Number of cakes - </h2>
+            <button>Order Cake</button>
+            <button>Restock cakes</button>
+
+        </div>
     )
 }
 
