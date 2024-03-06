@@ -12,4 +12,3 @@ function cakeView() {
 }
 
 export default cakeView;
-
