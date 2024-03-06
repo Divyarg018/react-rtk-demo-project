@@ -1,6 +1,6 @@
 import React from 'react'
 
-function cakeView() {
+function CakeView() {
     return (
         <div>
             <h2>Number of cakes - </h2>
@@ -11,4 +11,4 @@ function cakeView() {
     )
 }
 
-export default cakeView;
+export default CakeView;
