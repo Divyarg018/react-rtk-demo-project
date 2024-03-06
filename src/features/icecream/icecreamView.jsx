@@ -1,6 +1,6 @@
 import React from 'react'
 
-function IcecreamView() {
+export const IcecreamView = () => {
     return (
         <div>
             <h2>Number of ice creams - </h2>
@@ -10,4 +10,3 @@ function IcecreamView() {
     )
 }
 
-export default IcecreamView;
